@@ -1,4 +1,4 @@
-# TFOD_Farz
+# Farz
 
 # Farz: AI Waste Management Solution
 
