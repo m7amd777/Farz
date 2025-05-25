@@ -85,12 +85,6 @@ For hardware integration, Raspberry Pi setup, and bin actuation, refer to the [F
 
 ---
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## License
 
 This project is for educational and demonstration purposes.
