@@ -4,7 +4,7 @@
 
 **Farz** is an AI waste management company and the winner of Product of the Year at Injaz Bahrain Company Program 2024. Our flagship product, **Fariz-01**, is an AI-powered recycling bin that uses computer vision to identify and sort different types of waste at the point of disposal.
 
-![Fariz-01 at Injaz Bahrain](./resources/farz.jpg)
+![Fariz-01 at Injaz Bahrain](./resources/farz.jpeg)
 
 ---
 
